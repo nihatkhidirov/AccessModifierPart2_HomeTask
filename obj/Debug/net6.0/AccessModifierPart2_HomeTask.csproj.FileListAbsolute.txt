@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\bin\Debug\net6.0\AccessModifierPart2_HomeTask.exe
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\bin\Debug\net6.0\AccessModifierPart2_HomeTask.deps.json
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\bin\Debug\net6.0\AccessModifierPart2_HomeTask.runtimeconfig.json
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\bin\Debug\net6.0\AccessModifierPart2_HomeTask.dll
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\bin\Debug\net6.0\AccessModifierPart2_HomeTask.pdb
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.dll
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\refint\AccessModifierPart2_HomeTask.dll
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.pdb
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\AccessModifierPart2_HomeTask.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\AccessModifierPart2_HomeTask\obj\Debug\net6.0\ref\AccessModifierPart2_HomeTask.dll
